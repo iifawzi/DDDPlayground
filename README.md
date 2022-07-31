@@ -1,1 +1,1 @@
-A playground to practive DDD in pure typescript. 
+A playground to practice DDD in pure typescript. 
